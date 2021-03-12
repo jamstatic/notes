@@ -1,7 +1,7 @@
 
-
-.obsidian/  # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
-# .obsidian/workspace  # to exlude workspace cache
+# obsidian
+.obsidian  # settings (including plugin and hotkey configurations)
+.obsidian/workspace  # workspace cache
 
 # macOS
 .trash/
