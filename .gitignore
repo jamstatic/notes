@@ -1,0 +1,8 @@
+
+
+.obsidian/  # to exclude Obsidian workspace settings (including plugin and hotkey configurations)
+# .obsidian/workspace  # to exlude workspace cache
+
+# macOS
+.trash/
+.DS_Store
