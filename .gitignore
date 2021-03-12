@@ -6,3 +6,5 @@
 # macOS
 .trash/
 .DS_Store
+.obsidian/graph.json
+.obsidian/plugins/obsidian-git/data.json
