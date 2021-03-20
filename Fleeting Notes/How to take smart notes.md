@@ -13,17 +13,17 @@ Le livre de Sönke Ahrens détaille le processus d'écriture inspiré par la mé
 
 3 points importants :
 
-- écrire c'est penser : Il est important de formuler soi-même sa compréhension d'un livre, article, podcast
+- **écrire c'est penser** : Il est important de formuler soi-même sa compréhension d'un livre, article, podcast
 - Un système externe apporte beaucoup de valeur : constituer une toile de notes atomiques aide
 - la supériorité de l'approche émergente
 
 3 types de notes:
 
-- Notes volantes: éphémères par nature, c'est l'endroit où on consigne les idées qui nous passent par la tête au long de la journée, lors d'une lecture, etc.
-- Notes littéraires: Noter ses idées, questions reliées à des lectures en notant la page.
-- Notes permanentes: on passe en revue les notes précédentes, et on commence à écrire une note de synthèse qu'on souhaite garder dans son Zettelkasten.
+- **Notes volantes**: éphémères par nature, c'est l'endroit où on consigne les idées qui nous passent par la tête au long de la journée, lors d'une lecture, etc.
+- **Notes littéraires**: Noter ses idées, questions reliées à des lectures en notant la page.
+- **Notes permanentes**: on passe en revue les notes précédentes, et on commence à écrire une note de synthèse qu'on souhaite garder dans son Zettelkasten.
 
-L'approche émergente
+## L'approche émergente
 
 Notre compréhension grandit de jour en jour sur des sujets variés, et de nouvelles idées émergent naturellement à force de prendre des notes.
 

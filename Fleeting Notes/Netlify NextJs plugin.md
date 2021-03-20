@@ -1,5 +1,5 @@
 ---
-date: {{ date }}
+date: 2021-03-16
 url: https://www.netlify.com/blog/2021/03/16/try-the-new-essential-next.js-plugin-now-with-auto-install/
 tags:
  - netlify
