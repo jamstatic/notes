@@ -11,13 +11,14 @@ date updated: '2021-03-12T14:23:20+01:00'
 
 ---
 
-Bryan Jenks est un power-user d'[[Obsidian]]. Il a une chaîne youTube.
+[Bryan Jenks](https://www.bryanjenks.dev/) est un power-user d'[[Obsidian]]. Il partage son utilisation avancée sur sa chaîne youTube. Son *vault* Obisdian est stocké sur iCloud. Afin de pouvoir accéder à son *vault* depuis différentes machines, il l'a publié sur un dépôt GitHub. 
 
-Son Vault est stocké sur iCloud. Afin de pouvoir accéder à son vault depuis différentes machines, il a publié sur un dépôt GitHub. Il a également écrit un petit script shell pour pousser automatiquement et régulièrement les mises à jour.
+J'ai fait la même chose pour Jamstatic: https://github.com/jamstatic/notes/, le dépôt est public.
 
-J'ai installé le plugin Obsidian pour Git, il propose des options intéressantes: 
-- fréquence personnalisée pour automatiser les modifications
-- commit manuel avec message personalisé
-- récupérer les modifications avant de pousser les mises à jour sur le dépôt distant.
+Grâce au [plugin Obsidian pour Git](https://github.com/denolehov/obsidian-git), on peut automatiser les sauvegardes.
 
-Donc à priori pas besoin de script shell et ça permettrait de travailler sur un vault collaborativement.
+![](obsidian-git-settings.png)
+
+C'est extrêmement pratique pour  travailler collaborativement. La collecte collective 😉  permet de stocker des idées pour des émissions de podasts pour *Génération Statique*.
+
+Jusqu'à présent la collecte se faisait princpalement dans le Slack, c'est bien pour partager sa veille et échanger à chaud, mais ça finit par se perdre. Toutes les informations n'ont pas vocation à être gardées mais les idées intéressantes mériteraient d'être notées dans notre Zettelkasten.
