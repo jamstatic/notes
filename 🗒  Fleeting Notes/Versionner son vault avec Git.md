@@ -17,7 +17,7 @@ J'ai fait la même chose pour Jamstatic: https://github.com/jamstatic/notes/, le
 
 Grâce au [plugin Obsidian pour Git](https://github.com/denolehov/obsidian-git), on peut automatiser les sauvegardes.
 
-![](obsidian-git-settings.png)
+![](media/obsidian-git-settings.png)
 
 C'est extrêmement pratique pour  travailler collaborativement. La collecte collective 😉  permet de stocker des idées pour des émissions de podasts pour *Génération Statique*.
 
