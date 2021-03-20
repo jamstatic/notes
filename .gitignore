@@ -1,11 +1,6 @@
-
 # obsidian
-.obsidian  # settings (including plugin and hotkey configurations)
-.obsidian/workspace  # workspace cache
+.obsidian
 
 # macOS
 .trash/
 .DS_Store
-.obsidian/graph.json
-.obsidian/plugins/obsidian-git/data.json
-.obsidian/workspace
