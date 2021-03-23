@@ -2,5 +2,5 @@
 
 React invite au [[développement par composition]], à savoir séparer son interface en composants capable de maintenir leur propre état lorsque les données changent.
 
-
+React est le frame
 
