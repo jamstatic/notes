@@ -3,3 +3,10 @@ Hugo est un générateur de site statique crée par Steve Francia et maintenu de
 Hugo est écrit en Go, et livré sous forme de binaire, ce qui lui procure une facilité d'installation, et une rapidité d'exécution inégalée.
 
 Hugo s'inspire à la base de [[Jekyll]] mais a su au fil de temps amener tout un tas de concepts qui en font aujourd'hui un outil très complet pour peu que l'on prenne le temps de se familiariser avec toutes les conventions et son langage de templating Go HTML.
+
+Hugo intègre une gestion native des assets (CSS, JS) et seule l'utilisation de PostCSS fait qu'aujourd'hui il puisse nécessiter de recourir à [[npm]]. C'est notamment le cas quand on utilise le framework CSS [[Tailwind]].
+
+Hugo dispose de son propre gestionnaire de dépendances, Hugo modules, permet en effet à la manière des [[EcmaScript Modules (ESM)]]
+
+Hugo fonctionne principalement avec des données stockées localement et ne permet pas encore de générer des pages à partir de données récupérées depuis une API tierce. Il est possible de le faire mais cela demande de passer par des fonctions serverless par exemple.
+
