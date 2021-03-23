@@ -1,0 +1,3 @@
+Jekyll est un des tous premiers générateurs de site statiques. Il a été crée fin 2018 par Tom Preson-Werner, également fondateur de [[GitHub]] et auteur de SemVer, TOML ou plus récemment du framework fullstack [RedwoodJS](https://redwoodjs.com).
+
+Jekyll se veut un outil simple, à la base conçu pour le blog, il supporte également les collections de documents et les fichiers de données. Codé en Ruby, il a su attiré 
