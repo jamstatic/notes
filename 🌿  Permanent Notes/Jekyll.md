@@ -10,8 +10,10 @@ Maintenu pendant jusqu'à la fin 2017 par Parker Moore et quelques personnes de 
 
 Sortie en  2019, la version 4.0 n'a de majeure que le nom et n'apporte guère de nouvelles fonctionnalités, toujours pas d'uniformisation des taxonomies et des catégories entre les posts et les documents de collection, pas de support officiel d'i18n, etc. 
 
- Jekyll 4.0 ne supporte que les version de Ruby > 2.4.0 et intègre le filtre  `relative_url` pour la gestion des liens internes. Ce simple changement fait que près de deux ans après sa sortie, Jekyll v4.0 n'est toujours pas supporté par GitHub Pages. L'équipe en charge de la maintenance s'est contentée de mettre à jour les dépendences, et d'optimiser certaines opérations mémoire, qui font que Jekyll 4.x peut afficher de meilleures performances en fonction du contexte.
+ Jekyll 4.0 exige une version de Ruby > 2.4.0 et intègre le filtre  `relative_url` pour la gestion des liens internes. Ce simple changement fait que près de deux ans après sa sortie, Jekyll v4.0 n'est toujours pas supporté par GitHub Pages. L'équipe en charge de la maintenance s'est contentée de mettre à jour les dépendences, et d'optimiser certaines opérations mémoire, qui font que Jekyll 4.x peut afficher de meilleures performances en fonction du contexte.
 
 Les GitHub Actions permettent d'utiliser Jekyll 4.x et les plugins de son choix, pour ceux qui ont le courage de se frotter à ce genre de configuration.
 
 Le projet semble actuellement gelé et à moins d'un repreneur ou d'une volonté de GitHub d'investir dans cet outil historique, son utilisation risque de se cantonner à ceux qui ont des besoins simples, des blogs et des sites de moins de 3000 pages.
+
+Jekyll reste un très bon moyen de s'initier au développement web et de modéliser simplement des données, mais ne suscite plus trop guère d'engouement de la part de la communauté des développeurs web, qui a préféré se tourner vers des projets basé sur Node et JavaScript comme [[Eleventy]] et qui sont déjà tout aussi matures en restant plutôt facile d'accès, et dont la 
