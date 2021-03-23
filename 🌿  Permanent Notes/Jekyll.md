@@ -8,6 +8,8 @@ Malgré une syntaxe de templating très simple à apprendre, [[Liquid]], pensée
 
 Maintenu pendant près de 5 ans par Parker Moore et quelques personnes de chez GitHub, puisque Jekyll est le moteur par défaut des [[GitHub Pages]], son développement est en perte de vitesse depuis la version 3.7.x. 
 
-La version 4.0 n'a de majeure que le nom, simplement car elle ne supporte que les version de Ruby > 2.4.0 et intègre le filtre  `relative_url` pour la gestion des liens internes. Ce simple changement fait que près de deux ans après sa sortie, Jekyll v4.0 n'est toujours pas supporté par GitHub Pages. L'équipe en charge de la maintenance s'est contentée de mettre à jour les dépendences, et d'optimiser certaines opérations mémoire, qui font que Jekyll 4.x affiche des performances meilleures.
+La version 4.0 n'a de majeure que le nom, simplement car elle ne supporte que les version de Ruby > 2.4.0 et intègre le filtre  `relative_url` pour la gestion des liens internes. Ce simple changement fait que près de deux ans après sa sortie, Jekyll v4.0 n'est toujours pas supporté par GitHub Pages. L'équipe en charge de la maintenance s'est contentée de mettre à jour les dépendences, et d'optimiser certaines opérations mémoire, qui font que Jekyll 4.x peut afficher de meilleures performances en fonction du contexte.
 
-Les GitHub Actions permettent néanmoins de s'affranchir de cette limite, mais là encore cela complexifie l'utilisation de Jekyll par le plus grand nombre, d'un outil qui se voulait quasiment transparent 
+Les GitHub Actions permettent d'utiliser Jekyll 4.x et les plugins de son choix, pour ceux qui ont le courage de se frotter à ce genre de configuration.
+
+Le projet semble actuellement gelé et à moins d'un repreneur ou d'une volonté de GitHub d'investir dans cet outil historique, son utilisation risque de se cantonner à ceux qui ont des besoins simples, des blogs et des sites de ta
