@@ -12,7 +12,7 @@ Svelte Kit , le générateur d'applications web très performantes est désormai
 
 La sortie officielle devrait être annoncée lors de la conférence du 25 Avril.
 
-Docs: https://github.com/sveltejs/kit/blob/master/documentation/docs/00-introduction.md
+[Documentation](https://kit.svelte.dev/docs)
 
 
 
