@@ -16,4 +16,4 @@ Les GitHub Actions permettent d'utiliser Jekyll 4.x et les plugins de son choix,
 
 Le projet semble actuellement gelé et à moins d'un repreneur ou d'une volonté de GitHub d'investir dans cet outil historique, son utilisation risque de se cantonner à ceux qui ont des besoins simples, des blogs et des sites de moins de 3000 pages.
 
-Jekyll reste un très bon moyen de s'initier au développement web et de modéliser simplement des données, mais ne suscite plus trop guère d'engouement de la part de la communauté des développeurs web, qui a préféré se tourner vers des projets basé sur Node et JavaScript comme [[Eleventy]] et qui sont déjà tout aussi matures en restant plutôt facile d'accès, et dont la 
+Jekyll reste un très bon moyen de s'initier au développement web et de modéliser simplement des données, mais ne suscite plus trop guère d'engouement de la part de la communauté des développeurs web, qui a préféré se tourner vers des projets basé sur Node et JavaScript comme [[Eleventy]] et qui sont déjà tout aussi matures en restant plutôt facile d'accès, même si l'écosystème n'est pas encore comparable.
