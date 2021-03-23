@@ -10,7 +10,7 @@ Un des goulots d'étranglement c'est la génération du code JS qui va bien pour
 
 On voit apparaître une nouvelle génération d'outils: [[esbuild]], [[Snowpack]], [[vite]] dont le but est à la fois de proposer une meilleure DX via des [performances accrues](https://esbuild.github.io/) (x10 minimum) et des conventions qui font qui cela demande pas ou peu de configuration par défaut. On peut également étendre les possibilités via un [écosystème de plugins](https://github.com/esbuild/community-plugins) grandissant.
 
-Cette nouvelle génération d'outils pour générer du JavaScript coincide avec l'avènement des [[ES Modules]] et de [[WASM]] dans les navigateurs web.
+Cette nouvelle génération d'outils pour générer du JavaScript coincide avec l'avènement des [[EcmaScript Modules (ESM)]] et de [[WASM]] dans les navigateurs web.
 
 Écrit en Go, esbuild a déjà été adopté par plus de 18000 dépots GitHub.
 Esbuild propose également une API JavaSript.
