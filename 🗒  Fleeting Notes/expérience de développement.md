@@ -1,4 +1,3 @@
-L'expérience de développement, plus communément nommée DX (Developer eXperience) est le fait de proposer une expérience de développement agréable, puissante, et performante aux développeurs, notamment via de
+L'expérience de développement, plus communément nommée DX (Developer eXperience) est le fait de proposer une expérience de développement agréable, puissante, et performante aux développeurs, notamment via des outils qui vont leur permettre de passer plus de temps sur la résolution élégante de problèmes métiers à résoudre que sur la configuration ou l'optimisation de leur application.
 
 Un problème potentiel avec l'amélioration de l'[[expérience de développement]] c'est que les développeurs peuvent perdre de vue l'impact du code généré par les outils de plus en plus puissants, au détriment de  l'[[expérience utilisateur]] finale ressentie.
-
