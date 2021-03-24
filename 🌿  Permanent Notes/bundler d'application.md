@@ -1,0 +1,5 @@
+Avec l'émergence du développement par composition, afin de rendre son code modulaire et plus facilement réutilisable, on a vu apparaître des outils comme [[webpack]], [[parcel]] ou [[Rollup]] qui permettent de compiler les modules qui composent une application JavaScript pour le web.
+
+Sur des applications importantes, cette étape de génération du code pouvait prendre plusieurs minutes. Avec le support natif des [[EcmaScript Modules (ESM)]] dans [[Node.js]] et les navigateurs web, il est désormais possible de s'affranchir de cette opération pendant le développement, une nouvelle génération d'outils a donc vu le jour notamment [[Snowpack ]] et plus récemment [[Vite]].
+
+Un problème potentiel avec l'amélioration de l'[[expérience de développement]] c'est que les développeurs pourraient perdre de vue le poids du JavaScript livré en production, et se reposer entièrement sur les outils d'optimisation. Ce progrès technique pourrait alors avoir un impact négatif sur l'[[expérience utilisateur]].
