@@ -1,3 +1,4 @@
 #ssg 
 #react 
-#frameworks
+#framewor 
+#JavaScript 
