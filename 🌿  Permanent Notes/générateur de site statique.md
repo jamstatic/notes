@@ -10,4 +10,6 @@ Aujourd'hui la frontière avec le [[SSR]] est de plus en plus floue car les fram
 
 Parmi les générateurs les plus populaires on peut nommer: [[Jekyll]] le vétéran, [[Hugo]] le plus rapide, [[Eleventy]] le plus flexible.
 
-Un 
+Avec la popularité des frameworks applicatifs JavaScript, on a vu également d'autres générateurs émerger comme [[Next.js]] ou [[Gatsby]] basés sur [[React]], et leur pendants [[Vue]] [[Nuxt.js]] et [[Gridsome]]. De nouveaux générateurs d'applications web continuent d'émerger comme récemment [[Svelte Kit]] basé lui sur [[Svelte]].
+
+Il existe des [centaines de générateurs](https://jamstack.org/generators/
