@@ -5,7 +5,8 @@ tags:
  - cms
 ---
 
-Les agences WordPress se positionnent aussi sur le marché des headless CMS. Dernière en date WP Engine qui annonce [Atlas](https://wpengine.com/atlas).
+Les agences WordPress se positionnent aussi sur le marché des [[CMS headless]] . Dernière en date WP Engine qui annonce [Atlas](https://wpengine.com/atlas).
+
 
 
 
