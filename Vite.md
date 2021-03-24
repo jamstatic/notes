@@ -1,0 +1,1 @@
+[Vite](https://vitejs.dev) est un bundler d'application JavaScript qui tire partie 
