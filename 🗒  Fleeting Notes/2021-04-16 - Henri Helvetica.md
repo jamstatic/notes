@@ -6,8 +6,7 @@ Animateurs: NIcolas Goutay, Frank Taillandier
 
 La gestion des images est un des aspects les plus impactants pour la performance d'un site web et c'est loin d'être le plus simple. Quel format d'image utiliser, pour quel usage, quelle résolution ? Cela peut rapidement devenir un vrai casse-tête. On a d'ailleurs vu apparaître des services comme [Cloudinary](https://cloudinary.com) ou [Imgix](https://www.imgix.com) pour ne citer qu'eux qui se proposent de s'occuper de la partie optimisation de format en fonction du navigateur cible.
 
-Jusqu'à très récemment, il n'y avait pas trop de questions à se poser: JPG pour les photos, GIF pour les animations, PNG pour les illustrations, SVG pour les tracés.
-Les logiciels savaient gérer l'export dans ces formats. Les choses ont commencé à se compliquer avec l'explosion du web mobile et la multitudes de résolutions possibles.
+Jusqu'à très récemment, il n'y avait pas trop de questions à se poser, en simplifiant on pouvait se dire: OK, donc JPG pour les photos, GIF pour les animations, PNG et SVG pour les tracés et les illustrations.  Les logiciels d'édition savent gérer l'export dans ces formats historiques. Les choses ont cependant commencé à se compliquer avec l'explosion du web mobile et l'infinitié de résolutions possibles, le retina, la 4K puis la 8K, des appareils qui vont de la montre connectée à l'écran extra-large, de quoi donner le tourni...
 
 Les images restent toujours complexes à gérer, déjà à cause d'histoires de brevets, de support très disparate dans les navigateurs, et aussi du manque de support par les outils d'éditions. Autant il est simple d'exporter un PNG depuis Figma, autant demander à votre product designer de générer du webp et du AVIF reste finalement une étape technique qui sera du ressort de l'équipe technique.
 
