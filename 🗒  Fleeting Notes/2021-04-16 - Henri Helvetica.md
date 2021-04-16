@@ -15,4 +15,4 @@ Les images restent toujours complexes à gérer, déjà à cause d'histoires de 
 
 Pourtant les gains de compression sont suffisamment importants pour que l'on s'intéresse de plus près à [WebP](https://developers.google.com/speed/webp/), un format développé par Google, maintenant [supporté par la quasi totalité des agents utilisateurs](https://caniuse.com/webp).
 
-Pour AVIF, c'est encore 
+Pour [AVIF](https://jakearchibald.com/2020/avif-has-landed/), [JPEGXL](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs) ou HEIC, le support n'est pas encore aussi large et dépend aussi du GPU de l'appareil utilisé, mais 
