@@ -7,5 +7,6 @@ Henri Helevtica est organisateur du meetup Jamstack Toronto et cultive une exper
 La gestion des images est un des aspects les plus impactants pour la performance d'un site web et c'est loin d'être le plus simple. Quel format d'image utiliser, pour quel usage, quelle résolution ? Cela peut rapidement devenir un vrai casse-tête. On a d'ailleurs vu apparaître des services comme Cloudinary ou Imgix qui se proposent de s'occuper de la partie optimisation de format en fonction du navigateur cible.
 
 Jusqu'à très récemment, il n'y avait pas trop de questions à se poser: JPG pour les photos, GIF pour les animations, PNG pour les illustrations, SVG pour les tracés.
+Les logiciels savaient gérer l'export dans ces formats. Les choses ont commencé à se compliquer avec l'explosion du web mobile et la multitudes de résolutions possibles.
 
-Outils
+Les images restent toujours complexes à gérer, souvent à cause d'histoires de brevets, de 
