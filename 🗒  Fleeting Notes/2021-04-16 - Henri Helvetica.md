@@ -2,7 +2,7 @@
 
 Animateurs: NIcolas Goutay, Frank Taillandier
 
-Henri Helevtica est organisateur du meetup Jamstack Toronto et cultive une expertise sur l'évolution des formats d'images pour le web. Dans cet épisode il nous dévoile un peu l'historique, les coulisses et le support actuel des derniers formats.
+[Henri Helevtica](https://twitter.com/HenriHelvetica) est organisateur du meetup Jamstack Toronto et cultive une expertise sur l'évolution des formats d'images pour le web. Dans cet épisode il nous dévoile un peu l'historique, les coulisses et le support actuel des derniers formats.
 
 https://www.youtube.com/watch?v=yZBCwI5xGg0
 
