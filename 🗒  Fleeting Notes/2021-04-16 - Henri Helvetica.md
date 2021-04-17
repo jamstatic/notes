@@ -1,4 +1,4 @@
-# La hot révolution des images pour le web
+# La hot révolution des images pour le web	
 
 Animateurs: NIcolas Goutay, Frank Taillandier
 
