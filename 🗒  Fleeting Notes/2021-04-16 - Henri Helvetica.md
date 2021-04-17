@@ -1,4 +1,4 @@
-# La hot révolution des images pour le web	
+# La hot révolution des images pour le web
 
 Animateurs: NIcolas Goutay, Frank Taillandier
 
@@ -28,3 +28,4 @@ https://www.youtube.com/watch?v=yZBCwI5xGg0
 
 [Réagissez sur Twitter](https://twitter.com/jamstatic_fr).
 
+https://www.oreilly.com/library/view/high-performance-images/9781491925799/
