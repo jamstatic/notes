@@ -2,11 +2,11 @@
 
 Animateurs: NIcolas Goutay, Frank Taillandier
 
-Servir des pages statiques qui s'affichent aussi vite que possible, c'est une quête sans fin, outre la connexion et la latence réseau qu'on ne maîtrise pas ou le traitement et l'interprétation du JavaScript par le navigateur, la gestion des images est un des aspects les plus impactants pour la performance d'un site web et c'est loin d'être le plus simple. 
+Servir des pages statiques qui s'affichent aussi vite que possible, c'est une quête sans fin, outre la connexion et la latence réseau qu'on ne maîtrise pas ou le traitement et l'interprétation du JavaScript par le navigateur, [la gestion des images](https://web.dev/fast/#optimize-your-images) est un des aspects les plus [impactants](https://www.oreilly.com/library/view/high-performance-images/9781491925799/) pour la performance d'un site web et c'est loin d'être le plus simple. 
 
 Quel format d'image utiliser, pour quel usage, quelle résolution ? Cela peut rapidement devenir un vrai casse-tête. On a d'ailleurs vu apparaître des services comme [Cloudinary](https://cloudinary.com) ou [Imgix](https://www.imgix.com) pour ne citer qu'eux qui se proposent de s'occuper de la partie optimisation de format en fonction du navigateur cible.
 
-[Henri Helevtica](https://twitter.com/HenriHelvetica) est organisateur du meetup Jamstack Toronto et cultive une expertise sur l'évolution des formats d'images pour le web. Dans cet épisode il nous dévoile rapidement l'historique, les coulisses et le support actuel des derniers formats d'images pour le web.
+[Henri Helevtica](https://twitter.com/HenriHelvetica) est organisateur du meetup [Jamstack Toronto](https://twitter.com/JAMstackTORONTO) et cultive une expertise sur l'évolution des formats d'images pour le web. Dans cet épisode il nous dévoile rapidement l'historique, les coulisses et le support actuel des derniers formats d'images pour le web.
 
 https://twitter.com/HenriHelvetica/status/1383147022069420035
 
@@ -26,6 +26,6 @@ Si vous souhaitez en savoir plus sur l'appaarition de ces formats d'images, nous
 
 https://www.youtube.com/watch?v=yZBCwI5xGg0
 
+
 [Réagissez sur Twitter](https://twitter.com/jamstatic_fr).
 
-https://www.oreilly.com/library/view/high-performance-images/9781491925799/
