@@ -1,4 +1,4 @@
-# Ça s'anime du côté des formats d'images pour le web
+# La hot révolution des images pour le web
 
 Animateurs: NIcolas Goutay, Frank Taillandier
 
@@ -22,9 +22,9 @@ Nous avons à peine eu le temps d'éffleurer le sujet, cela demanderait sans dou
 
 Henri pense que c'est une évolution inéluctable et que WebP, AVIF ou JPEGXL vont petit à petit prendre la place de leurs ancêtres… à condition que tous les acteurs jouent le jeu. Vos sites web statiques n'en seront que plus légers, à vous le score parfait dans LightHouse.
 
-Si le sujet vous intéresse, nous vous conseillons de visionner la conférence qu'avait donné Henri à We Love Speed sur le sujet.
+Si vous souhaitez en savoir plus sur l'appaarition de ces formats d'images, nous vous conseillons de visionner la conférence qu'avait donné Henri à [We Love Speed](https://www.welovespeed.com/), la conférence des mordus de performance web.
 
 https://www.youtube.com/watch?v=yZBCwI5xGg0
 
-La discussion continue sur Twitter.
+[Réagissez sur Twitter](https://twitter.com/jamstatic_fr).
 
