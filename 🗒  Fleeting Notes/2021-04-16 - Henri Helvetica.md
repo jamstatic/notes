@@ -16,11 +16,11 @@ Les formats d'images plus récents AVIF ou JPEGXL sont un peu plus complexes à 
 
 Pourtant les gains de compression sont suffisamment importants pour que l'on adopte dès aujourd'hui [WebP](https://developers.google.com/speed/webp/), un format développé par Google, maintenant [supporté par la quasi totalité des agents utilisateurs](https://caniuse.com/webp).
 
-Pour [AVIF](https://jakearchibald.com/2020/avif-has-landed/), [JPEGXL](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs) ou encore HEIC, le support n'est pas encore aussi large et dépend aussi du CPU de l'appareil utilisé, mais les gains sont en terme de compression et de qualité sont rééls, ce serait dommage de ne pas les inclure dans vos éléments `source`.
+Pour [AVIF](https://jakearchibald.com/2020/avif-has-landed/), [JPEGXL](https://cloudinary.com/blog/how_jpeg_xl_compares_to_other_image_codecs) ou encore HEIC, le support n'est pas encore aussi large et dépend aussi du CPU de l'appareil utilisé, mais les gains sont en terme de compression et de qualité sont rééls, ce serait dommage de ne pas les inclure dans vos éléments `source`. N'oubliez pas que vous pouvez aussi [déférer le chargement des images](https://addyosmani.com/blog/lazy-loading/) qui ne sont pas visibles par défaut grâce à l'attribut `loading`.
 
-Nous avons à peine eu le temps d'éffleurer le sujet, cela demanderait sans doute une autre émission dédiée à la gestion de ces formats dans la chaîne d'édition du designer et du développeur, mais nous espérons qu'elle aura eu le mérite de vous pousser à regarder de plus près ce qui se fait en 2021. 
+Nous avons à peine eu le temps d'éffleurer le sujet, cela demanderait sans doute une autre émission dédiée à la gestion de ces formats dans la chaîne d'édition du designer et du développeur, mais nous espérons qu'elle aura eu le mérite de vous pousser à vous pencher d'un peu plus près sur ces formats.
 
-Henri pense que c'est une évolution inéluctable et que ces nouveaux formats vont petit à petit prendre la place de leurs ancêtres, si tous les acteurs jouent le jeu, vos sites web statiques n'en seront que plus légers.
+Henri pense que c'est une évolution inéluctable et que WebP, AVIF ou JPEGXL vont petit à petit prendre la place de leurs ancêtres… à condition que tous les acteurs jouent le jeu. Vos sites web statiques n'en seront que plus légers, à vous le score parfait dans LightHouse.
 
 Si le sujet vous intéresse, nous vous conseillons de visionner la conférence qu'avait donné Henri à We Love Speed sur le sujet.
 
