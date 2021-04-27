@@ -1,6 +1,0 @@
-- High School Diploma
-- Arrived in the US at 20 with a duffle bag and a bag of clothes
-- Video Game Store to buy a car
-- Customer Service at Tribe In
-- Wanted to be a teacher, likes to help people
--  
