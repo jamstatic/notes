@@ -10,6 +10,10 @@ Netlify's vision was always to democratize [**microservices**](https://www.netli
 
 So yeah, in 2021 a site hosted on Netllify can mix all of those, static assets, serverless functions and on demand rendering, which is great and as demonstrated by Zach Leat on Eleventy's website can [save a lot of time on your builds](https://twitter.com/zachleat/status/1402687220541165568), if your assets don't change between builds.
 
-While the initial promise was that it was easier to scale a static website, builds were always the bottlneck. Even today deploying a large static website with more than 10K pages can be painful a
+While the initial promise was that it was easier to scale a static website, builds were always the bottlneck. Even today deploying a large static website with more than 10K pages can be painful and frameworks like Next.js or [Remix Run](https://remix.run/features) choosed to address this problem by leveraging Server Side Rendering or HTTP Caching.
 
+So one thing is for sure, you don't build large websites in 2021 like you did in 1997 when I started coding HTML;
+
+- Component-based approach has gone mainstream, large websites are often built with Deisgn Systems
+- Client-side JavaScript has evolved, and you can now import ESM modules in browsers,
 
