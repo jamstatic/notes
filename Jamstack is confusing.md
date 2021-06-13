@@ -17,6 +17,7 @@ So one thing is for sure, you don't build large websites in 2021 like you did in
 - Component-based approach has gone mainstream, large websites are often built with Deisgn Systems, more and more are using **Web Components**.
 - Client-side JavaScript has evolved, and you can now import **ESM modules** in browsers, and load some JavaScript only when necessary 
 - You can take leverage of Services Workers and serve your site as a **Progressive Web App**
-- You have thousands of **APIs** at your disposal to enrich your site functionality: payment, shopping cart, search, even databases are now available as a service.
-- Control version systems lGit has changed the way we collaborate and ship code 
+- You have thousands of **APIs** at your disposal to enrich your site functionality: payment, shopping cart, search, even databases are now available as a service, more and more are available through ** GraphQL**.
+- Control version systems like Git have changed the way we collaborate and ship code, many services allow you to deploy automatically on push, allowing for **atomic deployments** on some continuous deployment services.
+- You can execute your code in the Cloud, serverless functions were first introduced by Amazon and now Microsoft, Google and other proviers all compete on that front. Netlify is an abstraction on top of those providers.
 
