@@ -8,4 +8,8 @@ A lot of tools allow you to generate a static output, your IDE if you write raw 
 
 Netlify's vision was always to democratize [**microservices**](https://www.netlify.com/blog/2019/11/18/what-are-microservices/) architectures, an they added **serverless** [functions](https://www.netlify.com/blog/2018/03/20/netlifys-aws-lambda-functions-bring-the-backend-to-your-frontend-workflow/) (an abstraction of AWS Lambda) in 2018, and later background functions, and now On Demand Rendering (also based on AWS Lambda).
 
+So yeah, in 2021 a site hosted on Netllify can mix all of those, static assets, serverless functions and on demand rendering, which is great and as demonstrated by Zach Leat on Eleventy's website can [save a lot of time on your builds](https://twitter.com/zachleat/status/1402687220541165568), if your assets don't change between builds.
+
+While the initial promise was that it was easier to scale a static website, builds were always the bottlneck. Even today deploying a large static website with more than 10K pages can be painful a
+
 
