@@ -14,6 +14,9 @@ While the initial promise was that it was easier to scale a static website, buil
 
 So one thing is for sure, you don't build large websites in 2021 like you did in 1997 when I started coding HTML;
 
-- Component-based approach has gone mainstream, large websites are often built with Deisgn Systems
-- Client-side JavaScript has evolved, and you can now import ESM modules in browsers,
+- Component-based approach has gone mainstream, large websites are often built with Deisgn Systems, more and more are using **Web Components**.
+- Client-side JavaScript has evolved, and you can now import **ESM modules** in browsers, and load some JavaScript only when necessary 
+- You can take leverage of Services Workers and serve your site as a **Progressive Web App**
+- You have thousands of **APIs** at your disposal to enrich your site functionality: payment, shopping cart, search, even databases are now available as a service.
+- Control version systems lGit has changed the way we collaborate and ship code 
 
