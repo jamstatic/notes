@@ -26,3 +26,9 @@ Software is hard, and Marketing does its best to sell products to developers, bu
 There's a good chance a decoupled front-end served from the edge might make sense if you're mainly servnig content to users, but with SSR, Serveless, Database as a Service, microservices, the frontier between purely static and purely dynamic are more and more blurry and going hybrid might be the key for large projects, serve as many static assets as you can from the edge and rely on servers to render dynamic pages when you need to. 
 
 It's really great to see Netlify push for modern web architecture, and other services do the same, it's a great time to be a developer, you can focus on your productt and worry less and less about the hardware. Just call it modern if you want that would be as appropriate,  state what is decoupled and distributed, you can even name your stack (Next/React/Vercel is NRV - fun fact, in french "énervé (N.R.V)" means angry) but please don't call your site Jamstack because a marketing team calls it that way, or say I deployed my latest site on Netlify, that's cool, would love to see what you build, not need for more buzzwords, we need creative people being able to understand when to leverage those capabilities, not try to define with a single meaningless word, something uttterly complex (don't get fooled,  web development is complex)
+
+The impact on learning?
+The number of tools tend to grow, developer relations are the new teachers, propaganda is around every Twitch stream, nothing has changed since Bernays.
+Netlify started its own learning platform.
+
+You'll find plenty to learn on web development, start there. Dev rels wants you to learn to master a framework or a service, because the more developers, the more projects, the more chance to grow business. 
