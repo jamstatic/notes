@@ -37,6 +37,6 @@ Have a 100 000+ pages website, is it user generated? You might need some server.
 The number of tools tend to grow, developer relations are the new teachers, propaganda is around every Twitch stream, nothing has changed since Bernays.
 Netlify started its own learning platform.
 
-You'll find plenty to learn on web development, start there. I see people take a course on a framework before knowing the basics, because the knowledge is going more and more into the tooling. Your might lose your job to AI in a few years if you're not creative and all you do is query APIs to displa
+You'll find plenty to learn on web development, start there. I see people take a course on a framework before knowing the basics, because the knowledge is going more and more into the tooling. Your might lose your job to AI in a few years if you're not creative and all you do is query APIs to display data on  a website.
 
 Dev rels wants you to learn to master the latest version of the latest framework or a great new service, because the more developers, the more projects, the more chance to grow business. 
