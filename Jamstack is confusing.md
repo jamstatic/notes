@@ -6,4 +6,6 @@ As Jeff Escalante wrote in a response, *JavaScript, APIs and Markup can be used 
 
 A lot of tools allow you to generate a static output, your IDE if you write raw HTML, the first generation of static site generators that includes amongst many others Jekyll, Hugo and Eleventy can do that. React Frameworks like Next.js or Gatby, Vue frameworks like Nuxt.js or Gridsome, Sveltte Kit, the latest tool from the Snowpack team called Astro can do that. The common thing about all those tools is that they can output **static** assets and coupled to Git, it allows you to leverage à continuous deployment service (Netlifly, but also Vercel, CloudFlare, GitHub, etc.). Before Netlify coined the term, those sites were simply refered as **static** and it was not pejorative. It was simply describing the frontend output, generate with very modern tools and workdlows.
 
-But Netlify's vision was always to democratize microservices architectures, an they added 
+Netlify's vision was always to democratize [**microservices**](https://www.netlify.com/blog/2019/11/18/what-are-microservices/) architectures, an they added **serverless** [functions](https://www.netlify.com/blog/2018/03/20/netlifys-aws-lambda-functions-bring-the-backend-to-your-frontend-workflow/) (an abstraction of AWS Lambda) in 2018, and later background functions, and now On Demand Rendering (also based on AWS Lambda).
+
+
