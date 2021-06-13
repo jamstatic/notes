@@ -8,7 +8,7 @@ A lot of tools allow you to generate a static output, your IDE if you write raw 
 
 Netlify's vision was always to democratize [**microservices**](https://www.netlify.com/blog/2019/11/18/what-are-microservices/) architectures, an they added **serverless** [functions](https://www.netlify.com/blog/2018/03/20/netlifys-aws-lambda-functions-bring-the-backend-to-your-frontend-workflow/) (an abstraction of AWS Lambda) in 2018, and later background functions, and now On Demand Rendering (also based on AWS Lambda).
 
-So yeah, in 2021 a site hosted on Netllify can mix all of those, static assets, serverless functions and on demand rendering, which is great and as demonstrated by Zach Leat on Eleventy's website can [save a lot of time on your builds](https://twitter.com/zachleat/status/1402687220541165568), if your assets don't change between builds.
+So yeah, in 2021 a site hosted on Netllify can mix all of those, static assets, serverless functions and on demand rendering, which is great and as demonstrated by Zach Leatherman on Eleventy's website can [save a lot of time on your builds](https://twitter.com/zachleat/status/1402687220541165568), if your assets don't change between builds.
 
 While the initial promise was that it was easier to scale a static website, builds were always the bottlneck. Even today deploying a large static website with more than 10K pages can be painful and frameworks like Next.js or [Remix Run](https://remix.run/features) choosed to address this problem by leveraging Server Side Rendering or HTTP Caching.
 
@@ -21,3 +21,4 @@ So one thing is for sure, you don't build large websites in 2021 like you did in
 - Control version systems like Git have changed the way we collaborate and ship code, many services allow you to deploy automatically on push, allowing for **atomic deployments** on some continuous deployment services.
 - You can execute your code in the Cloud, serverless functions were first introduced by Amazon and now Microsoft, Google and other proviers all compete on that front. Netlify is an abstraction on top of those providers.
 
+Software is hard, and Marketing does its best to sell products to developers, but before using one of those vague marketing term, think twice on what problem you need to solve. There's a good chance a decoupled front-end served from the edge might make sense if you're mainly servnig content to users, but with SSR, S
