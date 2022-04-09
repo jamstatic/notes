@@ -4,9 +4,7 @@ tags:
   - '#zettelkasten'
   - '#livre'
 date updated: '2021-03-12T14:24:23+01:00'
-
 ---
-
 Crtique vidéo en 15 min: <https://www.youtube.com/watch?v=BG1tfC7tSYw>
 
 Le livre de Sönke Ahrens détaille le processus d'écriture inspiré par la méthode [[ZettelKasten]] de Niklas Luhmann.
@@ -27,7 +25,7 @@ Le livre de Sönke Ahrens détaille le processus d'écriture inspiré par la mé
 
 Notre compréhension grandit de jour en jour sur des sujets variés, et de nouvelles idées émergent naturellement à force de prendre des notes.
 
-Bienfaits:
+Bienfaits :
 
 - à force de prendre des notes, on comprend et on retient mieux ce qu'on lit.
 - on commence à se faire sa propre idée à force de relier et de formuler des idées
@@ -36,4 +34,4 @@ Le livre ne se focalise pas sur Zettelkasten, pour cela il faudra aller se rense
 
 Le but ultime comme toujours est de devenir une meilleure version de soi même.
 
-Livre: <https://takesmartnotes.com/>
+Livre : <https://takesmartnotes.com/>
