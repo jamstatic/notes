@@ -1,9 +1,5 @@
 [[API]]
-
 [[Git]]
-
 [[Forestry]]
-
 [[TinaCMS]]
-
 [[GraphQL]]
