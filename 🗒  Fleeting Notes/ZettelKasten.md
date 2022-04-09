@@ -33,13 +33,11 @@ Ces notes peuvent aussi être utilisées pour réagir à des propos tenus dans u
 > _Dans Shape up, il y a un_ [**_appétit_**](https://basecamp.com/shapeup/1.2-chapter-03#setting-the-appetite) _qui conduit à parier un temps fini sur la résolution d'un problème, on fournit une_ [_ébauche de solution documentée_](https://basecamp.com/shapeup/1.1-chapter-02) _et validée par des données ou une connaissance aiguë du problème, mais il n'y a_ **_pas de plan_** _pour l'équipe chargée de l'exécution. C'est en réfléchissant à comment s'attaquer au mieux au problème et en tentant de le résoudre que_ **_les tâches vont apparaître d'elles-même_**_. On ne peut pas savoir_ avant _d'avoir fait le travail (d'où l'illusion des estimations)._ (cf. pages 101 et 127 du livre papier)
 
 - <https://basecamp.com/shapeup/3.1-chapter-10#imagined-vs-discovered-tasks> 
-
 - <https://basecamp.com/shapeup/3.4-chapter-13#the-tasks-that-arent-there>
 
 À partir de ces deux types de notes, flottantes et littéraires, on peut commencer à rédiger une **note permanente** sur **une** idée qu'on veut **retenir** et stocker dans notre _Zettelkasten_.
 
-**Exemple de note permanente :\
-**
+**Exemple de note permanente :**
 
 > J'ai un **penchant naturel pour les approches émergentes**, que ce soit pour concevoir un produit de manière itérative ([Shape Up](https://basecamp.com/shapeup)), pour écrire un texte ([ZettelKasten](https://zettelkasten.de/introduction/)), préparer une émission de podcast ou écrire une chanson.
 
