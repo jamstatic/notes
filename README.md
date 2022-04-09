@@ -4,5 +4,5 @@
  
  Des logiciels comme [Obsidian](https://obsidian.md) permettent de stocker ses notes au format Markdown, de les versionner dans Git.
 
-Liens:  
-- [How to Take Smart notes](https://takesmartnotes.com/): livre qui détaille la méthode de prise de note intelligentes.
+Liens :  
+- [How to Take Smart notes](https://takesmartnotes.com/): livre qui détaille la méthode de prise de note intelligentes
