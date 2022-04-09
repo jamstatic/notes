@@ -1,6 +1,6 @@
 # La hot révolution des images pour le web
 
-Animateurs: NIcolas Goutay, Frank Taillandier
+Animateurs : NIcolas Goutay, Frank Taillandier
 
 Servir des pages statiques qui s'affichent aussi vite que possible, c'est une quête sans fin, outre la connexion et la latence réseau qu'on ne maîtrise pas ou le traitement et l'interprétation du JavaScript par le navigateur, [la gestion des images](https://web.dev/fast/#optimize-your-images) est un des aspects les plus [impactants](https://www.oreilly.com/library/view/high-performance-images/9781491925799/) pour la performance d'un site web et c'est loin d'être le plus simple. 
 
@@ -27,7 +27,6 @@ Henri pense que c'est une évolution inéluctable et que WebP, AVIF ou JPEGXL vo
 Si vous souhaitez en savoir plus sur l'appaarition de ces formats d'images, nous vous conseillons de visionner la conférence qu'avait donné Henri à [We Love Speed](https://www.welovespeed.com/), la conférence des mordus de performance web.
 
 https://www.youtube.com/watch?v=yZBCwI5xGg0
-
 
 [Réagissez sur Twitter](https://twitter.com/jamstatic_fr).
 
