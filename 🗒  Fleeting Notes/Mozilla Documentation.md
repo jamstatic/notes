@@ -1,2 +1,1 @@
-La documentation de Mozilla est passé en statique
-
+La documentation de Mozilla est passé en statique.

@@ -5,4 +5,3 @@ Cette approche n'est pas nouvelle mais s'est popularisée pour les applications 
 On retrouve également cette approche trés modulaire héritée d'Unix dans l'écosystème [[Node.js]], les [[EcmaScript Modules (ESM)]] ou encore dans des frameworks CSS comme [[Tailwind CSS]].
 
 https://www.componentdriven.org
-
