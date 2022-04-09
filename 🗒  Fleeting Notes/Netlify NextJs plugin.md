@@ -5,6 +5,7 @@ tags:
  - netlify
  - nextjs
 ---
+
 Le plugin est maintenant installé automatiquement quand Netlify détecte un projet Next.js. Le support des fonctionnalités de Next.js est *presque* complet, excepté pour le [mode de generation statique incrémentale que Patrick Faramaz pour un projet de 11 000 pages](https://jamstatic.fr/2021/03/09/11000-pages-statiques/#la-r%C3%A9g%C3%A9n%C3%A9ration-incr%C3%A9mentale-%C3%A0-la-rescousse).
 
 Cassidy Williams, qui s'occupe des DevRel Next.js a indiqué dans un [article](https://www.netlify.com/blog/2021/03/08/incremental-static-regeneration-its-benefits-and-its-flaws/) que Netlify tenait à ce que les déploiements restent atomiques et immutables afin de pouvoir revenir en arrière facilement. Hors ISR peut entraîner des problèmes de cache pour les pages générées à la volée. Ils sont en train de travailler sur le sujet, à suivre....
