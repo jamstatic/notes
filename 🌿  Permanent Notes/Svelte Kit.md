@@ -2,12 +2,11 @@
 date: 2020-10-19
 url: https://github.com/sveltejs/kit
 tags:
-  - ssg
-  - svelte
-  - vite
-  - JavaScript
-date updated: '2021-03-24T08:18:01+01:00'
-
+ - ssg
+ - svelte
+ - vite
+ - JavaScript
+updated: '2021-03-24T08:18:01+01:00'
 ---
 
 [Svelte Kit](https://kit.svelte.dev) , un générateur d'applications web performantes est désormais open source. Il est [le successeur de Sapper](https://youtu.be/vHHLLJA0b70?t=24230). Son auteur Rich Harris, le définit comme [[Next.js]] pour [[Svelte]].
