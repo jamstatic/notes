@@ -5,6 +5,7 @@ tags:
   - '#livre'
 date updated: '2021-03-12T14:24:23+01:00'
 ---
+
 Crtique vidéo en 15 min: <https://www.youtube.com/watch?v=BG1tfC7tSYw>
 
 Le livre de Sönke Ahrens détaille le processus d'écriture inspiré par la méthode [[ZettelKasten]] de Niklas Luhmann.

@@ -6,6 +6,7 @@ tags:
   - js
   - static
 ---
+
 Fred Schott, l'auteur de [[Snowpack]] et Skypack, des outils qui tirent parti des [[EcmaScript Modules (ESM)]]  présente une preview d' [Astro](https://astro.build/) un outil qui  adopte une "nouvelle " architecture pour le développment d'applications web (static first).
 
 Avec Astro, tout est [rendu côté serveur ](SSR) par défaut, on sert donc du HTML et pas de [JavaScript] et le framework offre la possibilité d’opter sur la manière d’importer du JavaScript quand c’est nécessaire. On bénéficie d'une  expérience de développement par composants tout en s'assurant une meilleure performance par défaut. 
