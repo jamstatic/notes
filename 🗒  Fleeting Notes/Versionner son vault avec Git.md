@@ -7,7 +7,7 @@ tags:
   - '#contenu'
   - '#markdown'
   - '#obsidian'
-date updated: '2021-03-12T14:23:20+01:00'
+updated: '2021-03-12T14:23:20+01:00'
 ---
 
 [Bryan Jenks](https://www.bryanjenks.dev/) est un power-user d'[[Obsidian]]. Il partage son utilisation avancée sur sa chaîne youTube. Son *vault* Obisdian est stocké sur iCloud. Afin de pouvoir accéder à son *vault* depuis différentes machines, il l'a publié sur un dépôt GitHub.

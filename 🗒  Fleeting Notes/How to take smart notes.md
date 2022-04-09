@@ -1,9 +1,9 @@
 ---
 source: https://www.youtube.com/watch?v=BG1tfC7tSYw
 tags:
-  - '#zettelkasten'
-  - '#livre'
-date updated: '2021-03-12T14:24:23+01:00'
+ - '#zettelkasten'
+ - '#livre'
+updated: '2021-03-12T14:24:23+01:00'
 ---
 
 Crtique vidéo en 15 min: <https://www.youtube.com/watch?v=BG1tfC7tSYw>
