@@ -2,9 +2,9 @@
 date: 2021-04-10
 source: https://www.youtube.com/watch?v=mgkwZqVkrwo
 tags: 
-  - webdev
-  - js
-  - static
+ - webdev
+ - js
+ - static
 ---
 
 Fred Schott, l'auteur de [[Snowpack]] et Skypack, des outils qui tirent parti des [[EcmaScript Modules (ESM)]]  présente une preview d' [Astro](https://astro.build/) un outil qui  adopte une "nouvelle " architecture pour le développment d'applications web (static first).

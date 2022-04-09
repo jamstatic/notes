@@ -1,9 +1,9 @@
 ---
 source: https://www.gatsbyjs.com/blog/gatsbyconf-product-announcements/
 tags:
-  - '#gatsby'
-  - '#react'
-date updated: '2021-03-12T13:53:48+01:00'
+ - '#gatsby'
+ - '#react'
+updated: '2021-03-12T13:53:48+01:00'
 ---
 
 Annoncée lors de la conférence en ligne GatsbyConf 2021, de cette troisième version majeure on retiendra surtout qu'elle annonce une meilleure expérience de développement local avec les générations incrémentielles (jusquà 70% plus rapides à tester) et un affichage des erreurs revu pour être plus compréhensible.

@@ -1,6 +1,6 @@
 ---
 url: https://world.hey.com/franktldr/se-laisser-guider-ecrire-et-regarder-emerger-les-benefices-du-travail-organique-3c87ad6f
-date updated: '2021-03-20T22:26:40+01:00'
+updated: '2021-03-20T22:26:40+01:00'
 ---
 
 [**_Zettelkasten_**](https://fr.wikipedia.org/wiki/Zettelkasten) _est une méthode de prise de_ **_notes atomiques_** _qui petit à petit vont former un_ **_graphe de pensées_** _et permettre d'instaurer un dialogue interne avec ce qui a été externalisé précédemment . Ce graphe de notes s'apparente avec le temps à un véritable second cerveau avec lequel on peut interagir et . Son inventeur Niklas Luhmann le désignait entre autres comme_ **_une machine à surprises_** _(comme le World Wide Web de documents que nous utilisons tous les jours)._
