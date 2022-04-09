@@ -1,4 +1,4 @@
-Unn générateur de site statique (Static Site Generator ou SSG en anglais) se propose de compiler les fichiers source d'un site web en amont afin de pouvoir les servir depuis un [[CDN]].
+Un générateur de site statique (Static Site Generator ou SSG en anglais) se propose de compiler les fichiers source d'un site web en amont afin de pouvoir les servir depuis un [[CDN]].
 
 Cela procure plusieurs avantages notamment en terme de performance et de sécurité.
 
@@ -13,4 +13,3 @@ Aujourd'hui la frontière avec le [[SSR]] est de plus en plus floue car les fram
 Parmi les générateurs les plus populaires on peut nommer: [[Jekyll]] le vétéran, [[Hugo]] le plus rapide, [[Eleventy]] le plus flexible.
 
 Avec la popularité des frameworks applicatifs JavaScript, on a vu également d'autres générateurs émerger comme [[Next.js]] ou [[Gatsby]] basés sur [[React]], et leur pendants [[Vue]] [[Nuxt.js]] et [[Gridsome]]. De nouveaux générateurs d'applications web continuent d'émerger comme récemment [[Svelte Kit]] basé lui sur [[Svelte]].
-

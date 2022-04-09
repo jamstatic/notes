@@ -15,4 +15,3 @@ Le manque de guides et de HOWTOs fait que peu de membres de la communauté sembl
 Hugo fonctionne principalement avec des données stockées localement et ne permet pas encore de générer des pages à partir de données récupérées depuis une API tierce. Il est possible de le faire mais cela demande de passer par des fonctions serverless par exemple.
 
 On trouve une vingtaine d'[articles consacrés à Hugo sur Jamstatic.fr](https://jamstatic.fr/categories/hugo/), notamment des articles écrit par [Régis Philibert](https://regisphilibert.com) contributeur et développeur front-end Hugo à temps plein pour l'agence [The New Dyanmic](https://www.thenewdynamic.com).
-
