@@ -29,4 +29,3 @@ Si vous souhaitez en savoir plus sur l'appaarition de ces formats d'images, nous
 https://www.youtube.com/watch?v=yZBCwI5xGg0
 
 [Réagissez sur Twitter](https://twitter.com/jamstatic_fr).
-
