@@ -8,8 +8,6 @@ Malgré une syntaxe de templating très simple à apprendre, [[Liquid]], pensée
 
 [Astro](Astro.md)
 
-[How to take smart notes](How%20to%20take%20smart%20notes.md)
-
 Maintenu pendant jusqu'à la fin 2017 par Parker Moore et quelques personnes de chez GitHub, puisque Jekyll est le moteur par défaut des [[GitHub Pages]], son développement est en perte de vitesse depuis la version 3.7.x.
 
 Sortie en  2019, la version 4.0 n'a de majeure que le nom et n'apporte guère de nouvelles fonctionnalités, toujours pas d'uniformisation des taxonomies et des catégories entre les posts et les documents de collection, pas de support officiel d'i18n, etc. 
