@@ -6,8 +6,6 @@ Jekyll se veut un outil simple, à la base conçu pour le blog, il supporte éga
 
 Malgré une syntaxe de templating très simple à apprendre, [[Liquid]], pensée pour les webdesigners, le plus gros handicap de Jekyll reste qu'il est difficile à installer. Ce qui lui est le plus souvent reproché est son temps de génération sur des gros sites, dans les faits, c'est souvent dû à du code ou des plugins tiers non performants.
 
-[Astro](Astro.md)
-
 Maintenu pendant jusqu'à la fin 2017 par Parker Moore et quelques personnes de chez GitHub, puisque Jekyll est le moteur par défaut des [[GitHub Pages]], son développement est en perte de vitesse depuis la version 3.7.x.
 
 Sortie en  2019, la version 4.0 n'a de majeure que le nom et n'apporte guère de nouvelles fonctionnalités, toujours pas d'uniformisation des taxonomies et des catégories entre les posts et les documents de collection, pas de support officiel d'i18n, etc. 
